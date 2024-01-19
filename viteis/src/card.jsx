@@ -1,6 +1,6 @@
 import "/src/card.css";
 
-function Abdul({ name, email, id }) {
+export default function Abdul({ name, email, id }) {
   return (
     <div className="start">
       <img alt="" src={`https://robohash.org/${id}?150*90`} />
@@ -11,6 +11,3 @@ function Abdul({ name, email, id }) {
     </div>
   );
 }
-
-export default Abdul;
-

@@ -1,20 +1,20 @@
-.start{
+.start {
 	display: inline-block;
 	background-color: lightblue;
 	margin: 1rem;
 	padding: 1rem;
 	border-radius: 1.5rem;
 	text-align: center;
+	width: 20rem;
+	height: 28rem;
 }
-.start:hover{
-box-shadow:
-  3px 3px grey inset,
-  -1em 0 0.4em grey;
+.start:hover {
+	box-shadow:
+		3px 3px grey inset,
+		-1em 0 0.4em grey;
 }
-#root{
-	background-color: darkgray;
-}
-body{
+
+body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
