@@ -8,6 +8,14 @@
 }
 .start:hover{
 box-shadow:
-  3px 3px black inset,
+  3px 3px grey inset,
   -1em 0 0.4em grey;
+}
+#root{
+	background-color: darkgray;
+}
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
