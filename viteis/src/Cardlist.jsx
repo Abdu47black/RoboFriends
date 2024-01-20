@@ -1,5 +1,6 @@
 import Abdul from "./card";
 import { robots } from "/src/robots.js";
+import "/src/card.css";
 
 export default function Cardlist() {
   return (
@@ -7,6 +8,7 @@ export default function Cardlist() {
       {robots.map((user, i) => {
         return (
           <Abdul
+            className="car"
             key={i}
             id={robots[i].id}
             name={robots[i].name}

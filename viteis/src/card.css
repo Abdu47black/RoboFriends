@@ -1,12 +1,13 @@
 .start {
 	display: inline-block;
-	background-color: lightblue;
+	background-color: lightgreen;
 	margin: 1rem;
 	padding: 1rem;
 	border-radius: 1.5rem;
 	text-align: center;
-	width: 20rem;
-	height: 28rem;
+	width: 30rem;
+	height: 42rem;
+	overflow: hidden;
 }
 .start:hover {
 	box-shadow:
@@ -18,4 +19,10 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+}
+.car {
+	font-size: 5rem;
 }
