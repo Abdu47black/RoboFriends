@@ -5,6 +5,7 @@
 .Title {
 	text-align: center;
 	font-size: 1.2rem;
+	background: linear-gradient(to right, green, black);
 }
 
 .SearchBox {
@@ -15,4 +16,8 @@
 	background-color: lightblue;
 	font: 1em sans-serif;
 	font-size: 1.5rem;
+}
+#one {
+	font-size: 4rem;
+	color: #occac4;
 }
