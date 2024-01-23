@@ -20,12 +20,15 @@
 }
 .Title {
 	text-align: center;
+ HOME
 	font-size: 0.7rem;
 	background: linear-gradient(
 		to left,
 		rgba(7, 27, 82, 1) 0%,
 		rgba(0, 128, 128, 1) 100%
 	);
+	font-size: 1.2rem;
+	background: linear-gradient(to right, green, black);
 }
 
 .SearchBox {
@@ -40,4 +43,8 @@
 }
 #root {
 	margin: -25px;
+}
+#one {
+	font-size: 4rem;
+	color: #occac4;
 }
