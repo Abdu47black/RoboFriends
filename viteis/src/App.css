@@ -20,31 +20,25 @@
 }
 .Title {
 	text-align: center;
- HOME
 	font-size: 0.7rem;
 	background: linear-gradient(
 		to left,
 		rgba(7, 27, 82, 1) 0%,
 		rgba(0, 128, 128, 1) 100%
 	);
-	font-size: 1.2rem;
-	background: linear-gradient(to right, green, black);
+}
+#one {
+	font-size: 3rem;
+	color: #0ccac4;
 }
 
 .SearchBox {
-	padding: 1.1rem;
-	width: 10rem;
-	height: 0.2rem;
+	padding: 1.3rem;
+	width: 13rem;
+	height: 1rem;
 	border: 0.1rem solid green;
 	background-color: lightblue;
 	font: 1em sans-serif;
-	font-size: 0.7rem;
+	font-size: 1rem;
 	color: grey;
-}
-#root {
-	margin: -25px;
-}
-#one {
-	font-size: 4rem;
-	color: #occac4;
 }
