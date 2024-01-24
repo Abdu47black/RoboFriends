@@ -1,6 +1,6 @@
-import Abdul from "./card";
+import Abdul from "/src/Components/Card.jsx";
 
-import "/src/card.css";
+// import "/src/Card.css";
 
 export default function Cardlist({ robots }) {
   return (

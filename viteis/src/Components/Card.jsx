@@ -1,4 +1,4 @@
-import "/src/card.css";
+import "/src/Card.css";
 
 export default function Abdul({ name, email, id }) {
   return (
