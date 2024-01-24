@@ -11,7 +11,7 @@
 	font-family: "SEGA LOGO FONT";
 	font-weight: 200;
 	color: #0ccac4;
-	font-size: 35px;
+	font-size: 45px;
 }
 
 .SearchBox {
@@ -39,5 +39,5 @@
 	color: grey;
 }
 #root {
-	margin: -25px;
+	margin: -35px;
 }
