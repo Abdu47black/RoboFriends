@@ -4,7 +4,7 @@
 	font-weight: normal;
 	src:
 		local("SEGA LOGO FONT"),
-		url("/src/SEGA.woff") format("woff");
+		url("/src/Container/SEGA.woff") format("woff");
 }
 #one {
 	padding: 16px;
